@@ -1,8 +1,4 @@
-package components;//
-// Source code recreated from a .class file by IntelliJ IDEA
-// (powered by FernFlower decompiler)
-//
-
+package components;
 public class CoolingSystem {
   private final String model;
   private final String type;

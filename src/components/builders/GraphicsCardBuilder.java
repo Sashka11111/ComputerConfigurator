@@ -1,7 +1,4 @@
-package components.builders;//
-// Source code recreated from a .class file by IntelliJ IDEA
-// (powered by FernFlower decompiler)
-//
+package components.builders;
 
 import components.GraphicsCard;
 
